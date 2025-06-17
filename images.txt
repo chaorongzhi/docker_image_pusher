@@ -1,3 +1,2 @@
-ibmcom/informix-developer-database:14.10.FC7W1DE
-mcr.microsoft.com/mssql/server:2012-latest
+dbafromthecold/windowsservercore:v1
 
