@@ -1,1 +1,2 @@
-truevoly/oracle-12c:latest
+#truevoly/oracle-12c:latest
+mcy93w/windowsservercore:1803
