@@ -1,1 +1,1 @@
-dbafromthecold/windowsservercore:v1
+dockerproxy.cn/truevoly/oracle-12c
