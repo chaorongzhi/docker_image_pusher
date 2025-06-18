@@ -1,1 +1,1 @@
-dockerproxy.cn/truevoly/oracle-12c
+truevoly/oracle-12c:latest
