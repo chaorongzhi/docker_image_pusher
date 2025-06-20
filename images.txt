@@ -1,3 +1,4 @@
 #truevoly/oracle-12c:latest
 #mcy93w/windowsservercore:1803
-exoplatform/sqlserver:2017-CU8
+#exoplatform/sqlserver:2017-CU8
+mcr.microsoft.com/mssql/server:2017-latest
