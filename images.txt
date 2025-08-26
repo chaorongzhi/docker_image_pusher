@@ -3,4 +3,6 @@
 #exoplatform/sqlserver:2017-CU8
 #mcr.microsoft.com/mssql/server:2017-latest
 #mcr.microsoft.com/windows/servercore/iis
-nanoserver/iis:latest
+#nanoserver/iis:latest
+shihd/gbase8a:1.0
+apecloud/gaussdb:latest
