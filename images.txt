@@ -4,5 +4,6 @@
 #mcr.microsoft.com/mssql/server:2017-latest
 #mcr.microsoft.com/windows/servercore/iis
 #nanoserver/iis:latest
-shihd/gbase8a:1.0
-apecloud/gaussdb:latest
+#shihd/gbase8a:1.0
+#apecloud/gaussdb:latest
+liaosnet/gbase8s:latest
