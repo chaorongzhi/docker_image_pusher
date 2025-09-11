@@ -6,4 +6,5 @@
 #nanoserver/iis:latest
 #shihd/gbase8a:1.0
 #apecloud/gaussdb:latest
-liaosnet/gbase8s:latest
+#liaosnet/gbase8s:latest
+enmotech/opengauss:latest
