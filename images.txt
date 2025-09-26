@@ -8,5 +8,5 @@
 #apecloud/gaussdb:latest
 #liaosnet/gbase8s:latest
 #enmotech/opengauss:latest
-enmotech/opengauss-lite:latest
-
+#enmotech/opengauss-lite:latest
+dataease/sqlbot:latest
