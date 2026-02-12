@@ -10,4 +10,5 @@
 #enmotech/opengauss:latest
 #enmotech/opengauss-lite:latest
 #dataease/sqlbot:latest
-falkordb/queryweaver
+#falkordb/queryweaver
+lobehub/lobehub
