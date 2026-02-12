@@ -11,4 +11,5 @@
 #enmotech/opengauss-lite:latest
 #dataease/sqlbot:latest
 #falkordb/queryweaver
-lobehub/lobehub
+#lobehub/lobehub
+paradedb/paradedb:latest-pg17
