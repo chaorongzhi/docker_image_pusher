@@ -12,4 +12,5 @@
 #dataease/sqlbot:latest
 #falkordb/queryweaver
 #lobehub/lobehub
-paradedb/paradedb:latest-pg17
+#paradedb/paradedb:latest-pg17
+golang:1.26-alpine
